@@ -1,4 +1,4 @@
-# exercises
+# Exercises
 Meus exercícios de algoritmos em algumas linguagens e plataformas.
 
   - Coursera: Introdução à Ciência da Computação com Python Parte 1 // USP - IME
