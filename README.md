@@ -7,8 +7,8 @@ Meus exercícios de algoritmos em algumas linguagens e plataformas.
   - Coursera: Introdução à CdC com Python Parte 1 (USP - IME) // Exercícios
   - Aprendendo Pentest com Python (Novatec, Christopher Duffy) // Testes
   - Python Wiki Brasil // Lista de Exercícios
-  - URI Online Judge // Desafios
   - HackerRank // MIA
+  - URI Online Judge // Desafios
 
 | Plataforma         |  Soluções                                                                                         | Fonte                                                                     |
 |--------------------|---------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------|
