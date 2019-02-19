@@ -2,6 +2,7 @@
 Meus exercícios de algoritmos em algumas linguagens e plataformas. <p>Alguns exercícios ainda não estão dentro da sintaxe de boas práticas das PEP's e poucos não foram terminados, mas pretendo atualizar em breve.</p>
 
 
+
 ### Índice
 
   - Coursera: Introdução à CdC com Python Parte 1 (USP - IME) // Exercícios
