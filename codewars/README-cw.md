@@ -1,0 +1,2 @@
+# ONGOING // [EDIT]
+Meus exercícios de algoritmos no codewars. <p>Boa parte são rascunhos: ainda preciso reeditar boa parte deles com links e anotações para documentação do código; ao mesmo tempo tento evitar a paralisia por análise.<p> Em progresso
