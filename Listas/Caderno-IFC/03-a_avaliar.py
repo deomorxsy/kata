@@ -7,12 +7,12 @@ def main():
 	'''
 	Questão 03 - Letra A
 	'''
-	one = {
+	main(one = {
 		'A' : 3,
 		'B' : 16,
 		'nome' : 'miriam',
 		'prof' : 'advogado',
-	}
+	})
 
 	two = {
 		'A' : 5,
