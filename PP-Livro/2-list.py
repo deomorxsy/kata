@@ -1,7 +1,7 @@
 #!usr/bin/env python3
 
 l1 = [1,2,3]
-l2 = ["meu","irmão","vá","pra","merda"]
+l2 = ["read","eval","print","loop","cycle"]
 n = len(l1)
 var = 0 #variável de controle
 
