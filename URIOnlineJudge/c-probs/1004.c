@@ -1,4 +1,5 @@
 #include <stdio.h>
+// date: 2020-03-21
 
 int main() {
     int x, y, PROD;
