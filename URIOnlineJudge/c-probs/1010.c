@@ -1,5 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
+//date: 2020-03-27
 
 int main() {
 	int codo1, namba1, codo2, namba2;

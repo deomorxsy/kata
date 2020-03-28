@@ -1,4 +1,5 @@
 #include <stdio.h>
+//date: 2020-03-24
 
 int main() {
     int a, b, c, d, dif;
