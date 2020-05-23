@@ -1,5 +1,7 @@
 #include <stdio.h>
 
+//date: 20/02/2020
+
 int main() {
     /* TODO: define the grades variable here */
     int grades[3]; // edited part

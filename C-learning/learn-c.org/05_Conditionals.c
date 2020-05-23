@@ -1,5 +1,7 @@
 #include <stdio.h>
 
+//date: 23/02/2020
+
 void guessNumber(int guess) {
 	// TODO: write your code here
 	if (guess == 555) {

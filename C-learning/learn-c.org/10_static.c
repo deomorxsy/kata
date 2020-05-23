@@ -1,4 +1,7 @@
 #include <stdio.h>
+
+//date: 22/05/2020
+
 int sum (int num) {
 /**
 * find sum to n numbers	
@@ -15,3 +18,4 @@ int main() {
  	
  	return 0;
 }
+
