@@ -25,7 +25,7 @@ int main() {
         }
     }
 
-    //loop to the summation that at each iteration assigns the index of teams to the accumulator variable. 
+    //loop to the summation that at each iteration assigns the index of teams to the accumulator variable, hence incrementing the value. 
     for (i=0; i < univ; i++){
         accumulator += teams[i];
     }
