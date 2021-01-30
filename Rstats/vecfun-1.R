@@ -15,6 +15,7 @@ rivstats
 #1.2
 #Média truncada: valor da porcentagem * número total de amostras.
 #O valor do produto é retirado dos extremos da amostra.
-#abaixo: 0.25 * 8 = 2.0 || mean(1, 2, 3, 6) = 3.
+#A) 0.25 * 8 = 2.0 || mean(1, 2, 3, 6) = 3.
 trunmed <- mean(c(-100, 0, 1, 2, 3, 6, 50, 73), trim=0.25)
-trunmed
+#B)
+trunrivers <- mean(rivers, trim=(10/length(rivers)))
