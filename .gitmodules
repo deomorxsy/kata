@@ -1,0 +1,3 @@
+[submodule "algorithms/algorithms"]
+	path = algorithms/algorithms
+	url = git@github.com:deomorxsy/algorithms.git
